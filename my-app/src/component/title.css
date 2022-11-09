@@ -1,0 +1,13 @@
+
+.home{
+    height: 100px;
+    height: 190px;
+    background: url(../asset/imag.jpg) no-repeat ;
+    opacity: 0.60;
+    background-size: cover;
+    color: white;
+
+}
+.text-drack{
+    font-weight: bolder;
+}

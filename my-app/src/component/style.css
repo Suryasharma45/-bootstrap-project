@@ -1,0 +1,24 @@
+h6{
+   color: skyblue;
+   font-family: "playfair Display",serif;
+   font-size: 18px;
+}
+p{
+   
+    font-family: "playfair Display",serif;
+}
+#about{
+    padding-top: 65px;
+    box-shadow: 2px 2px 2px  rgb(209, 209, 209) 
+    
+}
+.about-section-padding{
+    padding-top: 100px ;
+}
+#font{
+    font-family: "playfair Display",serif;
+    font-weight: 600px;
+}
+#text{
+    font-size: 10px;
+}
